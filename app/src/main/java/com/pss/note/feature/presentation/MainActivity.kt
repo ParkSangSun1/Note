@@ -1,4 +1,4 @@
-package com.pss.note
+package com.pss.note.feature.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
